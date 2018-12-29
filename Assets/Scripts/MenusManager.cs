@@ -10,12 +10,12 @@ public class MenusManager : MonoBehaviour {
     public GameObject Monumento;
     public GameObject Informacion;
 
-
+    public GameObject materialDesignPanel;
     public GameObject Background;
 
     public VuforiaMonoBehaviour Camera;
 
-    
+    public Monumento monInfo;
     public GameObject currentMon;
     public Text nombreMon;
     public Text descMon;
@@ -31,6 +31,7 @@ public class MenusManager : MonoBehaviour {
     {
         Camera.enabled = state;
         Background.SetActive(!state);
+        materialDesignPanel.SetActive(!state);
         if (state==true)
         {
             Inicio.SetActive(false);
@@ -53,11 +54,18 @@ public class MenusManager : MonoBehaviour {
         Monumento.SetActive(true);
         Informacion.SetActive(false);
 
+        monInfo = m;
+
         nombreMon.text = m.nombre;
         descMon.text = m.Descripcion;
         map.texture = m.Map;
         Pic.texture = m.Pic;
         dir.text = m.Dir;
+
+        if (m.nombre == "Pinturas Rupestres")
+            pintura = true;
+        else
+            pintura = false;
 
         if (currentMon!=null)
             currentMon.SetActive(false);
@@ -77,10 +85,12 @@ public class MenusManager : MonoBehaviour {
     public bool Backwards = false;
     public bool forceMove = false;
 
+    public bool pintura = false;
+
     private void Update()
     {
 
-        if (currentMon!=null && currentMon.activeSelf && (!pause || forceMove))
+        if (currentMon!=null && currentMon.activeSelf && (!pause || forceMove) && !pintura)
         {
             currentMon.transform.Rotate(new Vector3(0, 1, 0) * Time.deltaTime * (Backwards? Speed : -Speed));
         }

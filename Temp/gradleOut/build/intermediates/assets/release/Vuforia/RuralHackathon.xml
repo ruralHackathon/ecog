@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="PinturasRupestres" size="0.250000 0.171522" />
+    <ImageTarget name="CastilloAzagala" size="0.250000 0.187500" />
+    <ImageTarget name="Santuario" size="0.250000 0.170036" />
+    <ImageTarget name="Convento" size="0.250000 0.187500" />
+    <ImageTarget name="IglesiaDeSantaMaria" size="0.250000 0.167063" />
+    <ImageTarget name="PuertaDeValencia" size="0.250000 0.326375" />
+    <ImageTarget name="PuertaDeLaVilla" size="0.250000 0.361738" />
+    <ImageTarget name="BarrioMedieval" size="0.250000 0.171522" />
+    <ImageTarget name="Castillo" size="0.250000 0.190547" />
+  </Tracking>
+</QCARConfig>

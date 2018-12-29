@@ -12,5 +12,8 @@ public class LanzadorMonumento : MonoBehaviour {
         MenusManager.instance.ToMonumento(m, g);
     }
 
+    public void openMaps() { 
+}
+
 
 }

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fafdbc873ebfeb4ab54cda9468f8af6, type: 3}
+  m_Name: Santuario
+  m_EditorClassIdentifier: 
+  nombre: "Santuario de Nuestra Se\xF1ora de Carri\xF3n"
+  Descripcion: "A unos 7 Km. de Alburquerque, direcci\xF3n La Codosera, a la orilla
+    derecha del r\xEDo G\xE9vora sobre un cerro y dominando un bell\xEDsimo paisaje
+    se encuentra el Santuario de Nuestra Se\xF1ora de Carri\xF3n.  El Santuario se
+    divide en tres partes: la inferior que corresponde a una plazoleta abierta, donde
+    esta situada la plaza de toros, la casa de las novenas, del mayordomo, etc."
+  Map: {fileID: 2800000, guid: e3d6ef15866fda2469e5470950bc9fd9, type: 3}
+  Pic: {fileID: 2800000, guid: 8b9038cd12f643a4fb6ecfec168452c9, type: 3}
+  Dir: 06519 Alburquerque, Badajoz
+  Coords: 39.180424 -7.034845

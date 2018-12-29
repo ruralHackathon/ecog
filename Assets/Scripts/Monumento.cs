@@ -10,4 +10,6 @@ public class Monumento : ScriptableObject {
     public Texture Map;
     public Texture Pic;
     public string Dir;
+
+    public string Coords;
 }

@@ -20,3 +20,4 @@ MonoBehaviour:
   Map: {fileID: 2800000, guid: 1d86948d7f3537a4993c80790f02ad8d, type: 3}
   Pic: {fileID: 2800000, guid: 11acec63099ac4544ad65e692de7a9ad, type: 3}
   Dir: Calle Puerta de la Villa, 2, 06510 Alburquerque, Badajoz
+  Coords: 39.218244 -7.000253

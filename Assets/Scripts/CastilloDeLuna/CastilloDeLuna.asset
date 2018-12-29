@@ -19,3 +19,4 @@ MonoBehaviour:
   Map: {fileID: 2800000, guid: 13a1b62f89f6cd044b8066063faee970, type: 3}
   Pic: {fileID: 2800000, guid: 86a2744797c6a8d48a56d2fa1735e1c5, type: 3}
   Dir: "Calle C\xE1rcel, s/n, 06510 Alburquerque, Badajoz"
+  Coords: 39.217313, -7.002312

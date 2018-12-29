@@ -21,3 +21,4 @@ MonoBehaviour:
   Map: {fileID: 2800000, guid: 30aed21939595b14289b43019a839a37, type: 3}
   Pic: {fileID: 2800000, guid: 0a778e2103010214a9fb4618694c1922, type: 3}
   Dir: Calle Puerta de Valencia, 11, 06510 Alburquerque, Badajoz
+  Coords: 39.219063, -7.004063

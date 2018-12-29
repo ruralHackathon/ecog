@@ -53,9 +53,9 @@ public class GMapsScrip : MonoBehaviour
     }
 
 
-    public void Open(string dest)
+    public void Open()
     {
-        Application.OpenURL("http://maps.google.com/maps?q=" + dest);
+        Application.OpenURL("http://maps.google.com/maps?q=" + MenusManager.instance.monInfo.Coords);
     }
 
 }

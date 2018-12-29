@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fafdbc873ebfeb4ab54cda9468f8af6, type: 3}
+  m_Name: SantaMariaDelMercado
+  m_EditorClassIdentifier: 
+  nombre: "Iglesia de Santa Mar\xEDa del Mercado"
+  Descripcion: "La Iglesia de Santa Mar\xEDa del Mercado est\xE1 emplazada intramuros
+    de la poblaci\xF3n, es decir, Villa Adentro, pr\xF3xima a la puerta de ingreso
+    al recinto del poderoso castillo. Al parecer el nombre de la Iglesia procede de
+    su ubicaci\xF3n ante la plazoleta en la que antiguamente se celebraba el mercado."
+  Map: {fileID: 2800000, guid: e6f582d2a0f8d374693aa00fa98339b8, type: 3}
+  Pic: {fileID: 2800000, guid: daf5027cd0cb1cf44a0f5e28ca26cfff, type: 3}
+  Dir: "Plaza Santa Mar\xEDa, 1, 06510 Alburquerque, Badajoz"
+  Coords: 39.218255 -7.000762
