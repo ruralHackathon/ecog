@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fafdbc873ebfeb4ab54cda9468f8af6, type: 3}
+  m_Name: PuertaDeValencia
+  m_EditorClassIdentifier: 
+  nombre: Puerta de Valencia
+  Descripcion: "Se halla flanqueada por dos torres cil\xEDndricas de 13 metros de
+    altura y consta de dos puertas, la 1\xAA de medio punto y la 2\xAA ojival. Merece
+    la pena resaltar la importancia del sistema defensivo de esta entrada que comenzaba
+    con el obst\xE1culo de un rastrillo, seguido de una puerta, unida a otra a trav\xE9s
+    de un pasillo por le que se arrojaba al enemigo (desde arriba) aceite y objetos
+    de toda clase."
+  Map: {fileID: 2800000, guid: 30aed21939595b14289b43019a839a37, type: 3}
+  Pic: {fileID: 2800000, guid: 0a778e2103010214a9fb4618694c1922, type: 3}
+  Dir: Calle Puerta de Valencia, 11, 06510 Alburquerque, Badajoz

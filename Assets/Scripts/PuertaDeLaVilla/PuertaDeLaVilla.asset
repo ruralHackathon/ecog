@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fafdbc873ebfeb4ab54cda9468f8af6, type: 3}
+  m_Name: PuertaDeLaVilla
+  m_EditorClassIdentifier: 
+  nombre: Puerta de la Villa
+  Descripcion: "Est\xE1 situada enfrente de la Iglesia de San Mateo. Consta de una
+    torre saliente de planta cuadrada; sobre el arco exterior se conservaba el escudo
+    de armas de D. Alonso S\xE1nchez, hijo bastardo del Rey portugu\xE9s D. Dinis
+    I, junto a una inscripci\xF3n en portugu\xE9s antiguo, donde se indica el comienzo
+    de est\xE1 obra en 1276 "
+  Map: {fileID: 2800000, guid: 1d86948d7f3537a4993c80790f02ad8d, type: 3}
+  Pic: {fileID: 2800000, guid: 11acec63099ac4544ad65e692de7a9ad, type: 3}
+  Dir: Calle Puerta de la Villa, 2, 06510 Alburquerque, Badajoz

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fafdbc873ebfeb4ab54cda9468f8af6, type: 3}
+  m_Name: CastilloDeLuna
+  m_EditorClassIdentifier: 
+  nombre: Castillo de Luna
+  Descripcion: "Construido con mampuesto y sillarejos, en sus partes m\xE1s nobles,
+    constituye uno de los bastiones medievales m\xE1s formidables de los que se conservan
+    en Extremadura y en la raya ib\xE9rica y uno de los mejores exponentes de la arquitectura
+    medieval. Declarado Monumento Nacional en 1924."
+  Map: {fileID: 2800000, guid: 13a1b62f89f6cd044b8066063faee970, type: 3}
+  Pic: {fileID: 2800000, guid: 86a2744797c6a8d48a56d2fa1735e1c5, type: 3}
+  Dir: "Calle C\xE1rcel, s/n, 06510 Alburquerque, Badajoz"
